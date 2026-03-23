@@ -1,6 +1,6 @@
 <div align="center">
 
-| <h1 align="center">MATLAB<sup>®</sup>: Introducción y Fundamentos<br><sub>PES UdeC Workshop</sub></h1> | <img src="assets/logo-pes.png" width="120"> |
+| <h1 align="center">MATLAB<sup>®</sup>: Introducción y Fundamentos<br><sub>PES UdeC Workshop</sub></h1> | <img src="logo-pes.png" width="120"> |
 | :---: | ---: |
 
 **Facultad de Ingeniería — Universidad de Concepción**
@@ -35,13 +35,13 @@ Aprenderás:
 ## 📋 Requisitos de Preparación
 Para asegurar el flujo del taller, es **obligatorio** completar los siguientes pasos antes de asistir:
 
-1. **Cuenta MathWorks:** En caso de contar con un notebook durante el taller **(opcional pero recomendado)**. Será necesario crear y vincular tu cuenta con correo institucional **@udec.cl**.
+1. **Cuenta MathWorks:** En caso de contar con un notebook durante el taller **(opcional pero muy recomendado)**. Será necesario crear y vincular tu cuenta con correo institucional **@udec.cl**.
    > 🔗 [Ver guía paso a paso: Obtención de Cuenta](docs/preparacion/cuenta_mathworks.md)
    
 2. **Inscripción:** Registrarse en el formulario oficial para coordinar aforo (en caso de no haberlo hecho previamente).
    > 🔗 [Formulario de Inscripción aquí](url)
 
-3. **Descargar el Material:** Descargar el repositorio en tu computador, o bien clonarlo dentro de MATLAB®.
+3. **Uso del Material:** Dentro de MATLAB®/MATLAB® Online en la pestaña ***Home*** da a la opción ***New***, selecciona ***Git Clone*** y utiliza el link del repositorio (*https://github.com/joshua-oliva/pes-udec-workshop-matlab*).
 
 ---
 
